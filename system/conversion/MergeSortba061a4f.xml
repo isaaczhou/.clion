@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\myprojects\algorithms\MergeSort\.idea\MergeSort.iml" timestamp="1557922297266" />
+    <file path="C:\myprojects\algorithms\MergeSort\.idea\misc.xml" timestamp="1557922297307" />
+    <file path="C:\myprojects\algorithms\MergeSort\.idea\modules.xml" timestamp="1557922297345" />
+    <file path="C:\myprojects\algorithms\MergeSort\.idea\vcs.xml" timestamp="1557922297326" />
+    <file path="C:\myprojects\algorithms\MergeSort\.idea\workspace.xml" timestamp="1557928223336" />
+  </project-files>
+</conversion>
+

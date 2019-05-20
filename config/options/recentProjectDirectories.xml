@@ -1,0 +1,67 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:/myprojects/algorithms/QuickSort" />
+        <option value="C:/myprojects/algorithms/InsertionSort" />
+        <option value="C:/myprojects/algorithms/SelectionSort" />
+        <option value="C:/myprojects/algorithms/MergeSort" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:/myprojects/algorithms/QuickSort" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:/myprojects/algorithms/QuickSort" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:/myprojects/algorithms/InsertionSort">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-191.7141.37" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557937987667" />
+              <option name="buildTimestamp" value="1557146101889" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/myprojects/algorithms/MergeSort">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-191.7141.37" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557929408663" />
+              <option name="buildTimestamp" value="1557146104692" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/myprojects/algorithms/QuickSort">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-191.7141.37" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558352301766" />
+              <option name="buildTimestamp" value="1557146114946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/myprojects/algorithms/SelectionSort">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-191.7141.37" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557931266167" />
+              <option name="buildTimestamp" value="1557146104692" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

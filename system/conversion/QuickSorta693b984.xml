@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\myprojects\algorithms\QuickSort\.idea\QuickSort.iml" timestamp="1557938055027" />
+    <file path="C:\myprojects\algorithms\QuickSort\.idea\deployment.xml" timestamp="1557938055101" />
+    <file path="C:\myprojects\algorithms\QuickSort\.idea\misc.xml" timestamp="1557938055052" />
+    <file path="C:\myprojects\algorithms\QuickSort\.idea\modules.xml" timestamp="1557938055085" />
+    <file path="C:\myprojects\algorithms\QuickSort\.idea\vcs.xml" timestamp="1557938055069" />
+    <file path="C:\myprojects\algorithms\QuickSort\.idea\workspace.xml" timestamp="1557938642497" />
+  </project-files>
+</conversion>
+
