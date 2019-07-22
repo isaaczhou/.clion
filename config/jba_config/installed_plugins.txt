@@ -1,2 +1,0 @@
-Org4Idea
-com.chrisrm.idea.MaterialThemeUI
