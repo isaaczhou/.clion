@@ -1,0 +1,43 @@
+<keymap version="1" name="mac IZA" parent="Mac OS X">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift alt 0" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+</keymap>
